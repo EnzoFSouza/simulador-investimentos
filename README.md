@@ -19,6 +19,18 @@ O jogo possui:
   - Tela educativa sobre ativos
   - Tela de créditos
 
+<h2 align="center">Tela Inicial</h2>
+
+<p align="center">
+  <img src="TelaInicial.png" width="400">
+</p>
+
+<h2 align="center">Tela com opções para comprar e vender</h2>
+
+<p align="center">
+  <img src="TelaJogo.png" width="400">
+</p>
+
 ## 🗂️ Estrutura do Projeto
 
 O projeto é composto pelos seguintes arquivos:
